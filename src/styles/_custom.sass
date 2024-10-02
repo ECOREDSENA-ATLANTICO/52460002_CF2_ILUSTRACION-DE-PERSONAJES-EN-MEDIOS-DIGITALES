@@ -2,13 +2,18 @@
   &-1
     animation: float1 3.5s ease-in-out infinite alternate
     position: absolute
-    top: 40%
-    right: 50%
+    top: 10%
+    right: 33%
   &-2
     animation: float1 2.8s ease-in-out infinite alternate
     position: absolute
-    top: 51%
-    right: 30%
+    top: 58%
+    right: 55%
+  &-3
+    animation: float1 2.8s ease-in-out infinite alternate
+    position: absolute
+    top: 58%
+    right: 61%
 
 
 @keyframes float1
@@ -17,3 +22,71 @@
 
   100%
     transform: translateY(0px)
+
+.banner-principal
+  &__img
+    padding-bottom: 0px!important
+    padding-top:1em!important
+    @media (min-width: 576px)
+      align-self: end
+  &__row &__img
+    @media (min-width: 576px)
+      padding-right: 0!important
+
+@media (max-width: 1024px) 
+  .banner-principal .tarjeta
+    background-image: url(../assets/curso/portada/fondo-banner.png) !important
+@media (max-width: 430px) 
+  .banner-principal .tarjeta
+    background-image: url(../assets/curso/portada/fondo-banner-responsive.png) !important
+
+.banner-interno__fondo
+  background-image: url(../assets/curso/portada/banner-interno.png) !important
+
+.titulo-principal__numero span
+  color: #fff !important
+
+.fondo-imagen
+  background-image: url(../assets/curso/temas/tema1/img2.png) !important
+  background-repeat: no-repeat
+  background-size: cover !important
+.fondo-imagen-2
+  background-image: url(../assets/curso/temas/tema2/img9.png) !important
+  background-repeat: no-repeat
+
+
+.blue_icon
+  background: rgb(40,63,101)
+  background: linear-gradient(90deg, #283F65 0%, #1D2E4B 35%, #131F32 100%)
+  display: inline-block
+  color: #fff
+  padding: 5px 20px
+  position: relative
+  border-top-left-radius: 5px
+  border-bottom-right-radius: 5px
+
+  &:after
+    content: url(../assets/curso/temas/tema1/img6.svg)
+    position: absolute
+    right: -8px
+    top: 6px
+
+.tabs-a__tab:last-child 
+  background: #E8E8E8
+
+.tabs-a .tabs-a__tab__selected 
+  background-color: #4C4999
+  color: white
+
+.tabs-a .tabs-a__tab__selected:before 
+  background-color: #4C4999
+
+html:not(.no-js) [data-aos=flip-up].aos-animate 
+  transform: perspective(2500px) rotateX(0)
+  background-color: #732D84
+
+.tabs-b__tab
+  background-color: #E5B6F0 !important
+
+.tabs-b__tab--active
+  background-color: #F9EDFB !important

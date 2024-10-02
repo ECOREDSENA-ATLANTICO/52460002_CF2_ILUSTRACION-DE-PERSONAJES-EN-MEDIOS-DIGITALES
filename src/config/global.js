@@ -1,8 +1,9 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE DEL COMPONENTE FORMATIVO',
-    descripcionCurso: 'BREVE DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
+    componenteFormativo: 'Desarrollo de la ilustración',
+    descripcionCurso:
+      'La ilustración de personajes para medios digitales utiliza diferentes tipos de herramientas tecnológicas para su desarrollo, utilizando software especializado que permite generar productos, vectores, mapas de bits, animaciones digitales, modelado 3D, renders en variadas aplicaciones.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner_princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
       {
@@ -12,6 +13,10 @@ export default {
       {
         clases: ['banner-principal-decorativo-2'],
         imagen: require('@/assets/curso/portada/banner-principal-decorativo-2.svg'),
+      },
+      {
+        clases: ['banner-principal-decorativo-3'],
+        imagen: require('@/assets/curso/portada/banner-principal-decorativo-3.svg'),
       },
     ],
   },
@@ -31,27 +36,13 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Animación y <em>software</em>',
         desarrolloContenidos: true,
-        subMenu: [
-          {
-            numero: '1.1',
-            titulo: 'Titulo de segundo nivel',
-            hash: 't_1_1',
-          },
-        ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo de primer nivel',
-        desarrolloContenidos: true,
-      },
-      {
-        nombreRuta: 'tema3',
-        numero: '3',
-        titulo: 'Titulo de primer nivel',
+        titulo: 'Representación final 2D-3D',
         desarrolloContenidos: true,
       },
     ],
@@ -102,32 +93,116 @@ export default {
   },
   complementario: [
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      link: 'https://www.google.com/',
-    },
-    {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: 'Animación de personajes digitales.',
+      referencia:
+        'Técnicas de animación. (2020). Animatrópolis. [Video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=J9R7hBRzyYI&t=3s',
     },
   ],
   glosario: [
     {
-      termino: 'Término',
-      significado: 'Texto de la definición',
+      termino: '<em>ActionScript</em>',
+      significado: 'lenguaje de programación usado en el software Adobe Flash.',
     },
     {
-      termino: '<em>Término con extranjerismo</em>',
-      significado: 'Definición',
+      termino: '<em>Framework</em>',
+      significado:
+        'conjunto de librerías que brindan funcionalidades  preconstruidas facilitando la producción de contenidos.',
+    },
+    {
+      termino: '<em>Motion graphics</em>',
+      significado:
+        'término referido a un estilo de animación que comprende la transición formal de objetos en 2D o en 3D.',
+    },
+    {
+      termino: '<em>Stop motion</em>',
+      significado: 'técnica de animación cuadro a cuadro de imágenes.',
+    },
+    {
+      termino: 'Cuadro a cuadro',
+      significado:
+        'técnica de generación de movimiento a partir de varias imágenes estáticas en secuencia que, agrupadas, evidencian un movimiento.',
+    },
+    {
+      termino: 'Fotograma',
+      significado: 'cada una de las imágenes que conforman una animación.',
+    },
+    {
+      termino: 'Modelado 3D',
+      significado:
+        'tipo de ilustración que se basa en la construcción de objetos tridimensionales a partir de figuras geométricas desde un software de diseño 3D.',
+    },
+    {
+      termino: 'Motor de render',
+      significado:
+        'es un plugin, generalmente integrado a un software de modelado 3D, que permite crear una vista realista del modelo a partir de la aplicación de materiales y la manipulación de la iluminación.',
+    },
+    {
+      termino: 'Renderizar',
+      significado:
+        'proceso de otorgar materiales y elementos de iluminación a un modelado 3D.',
     },
   ],
   referencias: [
     {
-      referencia: '',
+      referencia:
+        'Adobe.com. (Sin fecha). Importación de imágenes 3D desde Photoshop e Illustrator.',
+      link:
+        'https://helpx.adobe.com/es/after-effects/using/preparing-importing-3d-image-files.html',
+    },
+    {
+      referencia:
+        'Angelina, C.  (2013). Arquitectura del motor de videojuegos. Universidad de Castilla. Escuela Superior de Informática.',
       link: '',
+    },
+    {
+      referencia:
+        'Arquitectura del motor de videojuegos. Universidad de Castilla. Escuela Superior de Informática. Fernández Vallejo, D.; y Martín Angelina, C. (2015). Desarrollo de videojuegos: un enfoque práctico.',
+      link:
+        'http://www.cedv.es/mwg-internal/de5fs23hu73ds/progress?id=LWamv93pK8__ZiEHLMSoyl3n-aOz56X4L8TpH774D9Y',
+    },
+    {
+      referencia:
+        'Arte y empresa. (Sin fecha). Diseño de personajes. Recuperado el 16 de julio de 2017.',
+      link: 'http://www.arteyempresa.ugto.mx/docs/esp_personjaes.pdf ',
+    },
+    {
+      referencia:
+        'Creación de personajes y escenarios para entornos de video juegos en 3D.',
+      link: 'https://riull.ull.es/xmlui/handle/915/1346',
+    },
+    {
+      referencia:
+        'EducaciónPlástica.net. (Sin fecha). Elementos del lenguaje gráfico-plástico.',
+      link:
+        'http://www.educacionplastica.net/epv1eso/impress/pdfs/elementos_del_lenguaje.pdf',
+    },
+    {
+      referencia:
+        'Fernández Vallejo, D.; y Martín Angelina, C. (2015). Desarrollo de videojuegos: un enfoque práctico. Recuperado el 12 de julio de 2017.',
+      link:
+        'http://www.cedv.es/mwg-internal/de5fs23hu73ds/progress?id=LWamv93pK8__ZiEHLMSoyl3n-aOz56X4L8TpH774D9Y',
+    },
+    {
+      referencia:
+        'Garcerá Moreno, M. (2014). Diseño de personaje para animación. Recuperado el 10 de julio de 2017.',
+      link: 'https://goo.gl/qX27mH',
+    },
+    {
+      referencia:
+        'McGraw-Hill Education. (Sin fecha). Elementos visuales de la imagen. Recuperado el 15 de julio de 2017.',
+      link: 'http://assets.mheducation.es/bcv/guide/capitulo/844817724X.pdf',
+    },
+    {
+      referencia:
+        'Moreno Méndez, I. (Sin fecha). Creación de personajes para la publicidad. Recuperado el 15 de julio de 2017.',
+      link: 'https://riull.ull.es/xmlui/handle/915/1346',
+    },
+    {
+      referencia:
+        'Rhinoceros. (Sin fecha). Rhinoceros. Recuperado el 15 de julio de 2017.',
+      link: 'https://www.rhino3d.com/es',
     },
   ],
   creditos: [
