@@ -8,17 +8,17 @@
         h1 Animación y <em>software</em>
       
       .row.justify-content-center.mb-3
-        .col-lg-4.col-md-8
+        .col-lg-4.col-md-8(data-aos="fade-right")
           figure
           img(src="@/assets/curso/temas/tema1/img1.png", alt="imagen decorativa")
-        .col-lg-8
+        .col-lg-8(data-aos="fade-left")
           p.mb Técnica por la cual se otorga movimiento cuadro a cuadro a un dibujo, imagen o un modelado 3D. En la animación existen diferentes técnicas dependiendo del resultado a requerir.
           .cajon.color-secundario.p-4(style="background: #FDEFF5")
             p.mt-0.mb-0 Las técnicas de animación son métodos utilizados para crear la ilusión de movimiento en imágenes estáticas. Estas técnicas varían en su enfoque y herramientas, y cada una ofrece diferentes resultados y niveles de complejidad.
-      .row.justify-content-center.my-3.fondo-imagen.p-5
-        .tarjeta.tarjeta--blanca.p-4
+      .row.justify-content-center.my-3.fondo-imagen.p-4
+        .tarjeta.tarjeta--blanca.p-4(data-aos="fade-up")
           SlyderA(tipo="b")
-            .row.px-5.pt-3
+            .row.px-3.pt-3
               .col-lg-6.mb-4.mb-md-0.align-content-center
                 h4 Dibujos animados 2D
                   p.mt-4 Técnica de animación tradicional que consiste en dibujar cuadro a cuadro cada dibujo con sus respectivos componentes, escenario y personajes.
@@ -33,7 +33,7 @@
                   p.mt-4 Técnica que consiste en generar movimiento cuadro a cuadro a figuras, generalmente a escala, por medio de fotografías.
                   p.mt-3 Fuente: <a href="Stop Motion o Animación en Volumen ¿Qué es? (monsuton.com">Stop Motion o Animación en Volumen</a>
 
-              .col-md-6
+              .col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')
             .row.px-5.pt-3
@@ -42,15 +42,15 @@
                   p.mt-4 Llamada animación digital, es una técnica que se realiza en software de diseño 3D y su  principio es la creación de personajes por medio de figuras geométricas con profundidad, altura y ancho.
                   p.mt-3 Fuente: <a href="https://www.renderforest.com/es/blog/3d-animation">Animación 3D</a>
 
-              .col-md-6
+              .col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img5.png', alt='Imagen decorativa')
               
-      h3.mb-3.blue_icon Software para desarrollo de personajes
+      h3(data-aos="fade-left").mb-3.mt-3.blue_icon Software para desarrollo de personajes
 
       p.mt-3.mb-5 Después de identificar el tipo de animación a realizar, se debe seleccionar el software que apoyará el diseño y construcción del personaje, entre algunos de estos programas informáticos se encuentran:
 
-      .row.justify-content-center.align-content-center
+      .row.justify-content-center.align-content-center(data-aos="zoom-in")
         .col-lg-12
           TabsA.mb-5
             .tarjeta.p-4(style="background: #E5E4FF")(titulo="Adobe animate")

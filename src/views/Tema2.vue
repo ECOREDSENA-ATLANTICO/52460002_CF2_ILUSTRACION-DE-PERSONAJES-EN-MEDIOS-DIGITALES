@@ -7,22 +7,22 @@
           span 2
         h1 Representación final 2D-3D
       
-      .row.justify-content-center.mb-3
-        .col-lg-4.col-md-7
+      .row.justify-content-center.mb-
+        .col-lg-4.col-md-7(data-aos="fade-right")
           figure
-          img.my-4(src="@/assets/curso/temas/tema2/img1.svg", alt="imagen decorativa")
-        .col-lg-8
-          .cajon.color-secundario.p-4.my-3(style="background: #FDEFF5")
+          img.mt-4(src="@/assets/curso/temas/tema2/img1.png", alt="imagen decorativa")
+        .col-lg-8(data-aos="fade-left")
+          .cajon.color-secundario.p-4.mt-3(style="background: #FDEFF5")
             p.mt-0.mb-0 Los personajes en 2D y en 3D se diseñan, modelan, renderizan y por medio de diferentes herramientas y software especializado, el cual cada vez más genera productos de mayor realismo y detalle. Para 
           p.mb Para ello, se debe tener en cuenta que el proceso tecnológico del modelado, renderizado y animación debe concordar con los requerimientos iniciales del cliente expuestos en el brief, así el éxito del diseñador radica en seleccionar las herramientas necesarias para cumplir con las condiciones del proyecto y sus aplicaciones en el contexto. 
       
-      h3.mb-3.mt-5.blue_icon Dimensiones 2D
+      h3(data-aos="fade-left").mb-3.mt-3.blue_icon Dimensiones 2D
   
-      p.my-3 En el diseño e ilustración, ya sea con software o de manera análoga, se deben tener en cuenta diferentes aspectos al momento de finalizar los archivos entregables, los cuales son fundamentales para llevar a cabo un trabajo que cumpla con un factor estético relevante, diferenciado de otros productos en el mercado y que permita garantizar que el resultado concuerde con las especificaciones del cliente y sea ordenado. Algunos de estos aspectos:
+      p(data-aos="fade-left").my-3 En el diseño e ilustración, ya sea con software o de manera análoga, se deben tener en cuenta diferentes aspectos al momento de finalizar los archivos entregables, los cuales son fundamentales para llevar a cabo un trabajo que cumpla con un factor estético relevante, diferenciado de otros productos en el mercado y que permita garantizar que el resultado concuerde con las especificaciones del cliente y sea ordenado. Algunos de estos aspectos:
   
-      .row.justify-content-center.my-5
+      .row.justify-content-center.my-5(data-aos="fade-up")
   
-        .col-md-8.mb-5.mb-md-0.align-content-center
+        .col-lg-8.col-md-12.mb-5.mb-md-0.align-content-center
           LineaTiempoD.color-acento-botones
             .row(numero="1" titulo="La composición")
               .col-md-12.mb-4.mb-md-0
@@ -41,16 +41,16 @@
                 p.text-small La elección de las escalas cromáticas es de extremo cuidado, puesto que permite orientar al público, validar una intención y generar un ambiente gráfico que debe apoyar y definir claramente el concepto de diseño del personaje.
                 
         .col-lg-4.col-md-8.mb-5.mb-md-0.align-content-center
-            img(src="@/assets/curso/temas/tema2/img3.png", alt="imagen decorativa")
+            img.my-4(src="@/assets/curso/temas/tema2/img3.png", alt="imagen decorativa")
   
-      h3.mb-3.mt-5.blue_icon Dimensiones 3D
+      h3(data-aos="fade-left").mb-3.mt-3.blue_icon Dimensiones 3D
       
-      p.my-3 En la dimensión tridimensional, se tienen en cuenta elementos similares a los del diseño 2D: la composición, la elección de colores, la cantidad de componentes, entre otros. No obstante, es necesario agregar otros:
+      p(data-aos="fade-left").my-3 En la dimensión tridimensional, se tienen en cuenta elementos similares a los del diseño 2D: la composición, la elección de colores, la cantidad de componentes, entre otros. No obstante, es necesario agregar otros:
       .row.justify-content-center.my-3
-        .col-lg-4.col-md-8.mb-5.mb-md-0.align-content-center
-            img(src="@/assets/curso/temas/tema2/img2.png", alt="imagen decorativa")
+        .col-lg-4.col-md-8.mb-5.mb-md-0.align-content-center(data-aos="fade-right")
+            img.my-3(src="@/assets/curso/temas/tema2/img2.png", alt="imagen decorativa")
   
-        .col-lg-8.col-md-9.mb-5.mb-md-0.align-content-center
+        .col-lg-8.col-md-12.mb-5.mb-md-0.align-content-center(data-aos="fade-left")
           LineaTiempoD.color-acento-botones
             .row(numero="1" titulo="La escala")
               .col-md-12.mb-4.mb-md-0
@@ -63,10 +63,11 @@
             .row(numero="3" titulo="La acción de renderizar")
               .col-md-12.mb-4.mb-md-0
                 p.text-small Para seleccionar materiales afines con el estilo gráfico del proyecto, se debe tener en cuenta la selección del tipo de iluminación, la distancia y la cantidad de focos, lo que también afecta la visualización y por consiguiente la construcción de sentido del escenario y el personaje.
-      .cajon.color-secundario.p-4.mt-4(style="background: #FDEFF5")
+      
+      .cajon.color-secundario.p-4.mt-4(data-aos="fade-up")(style="background: #FDEFF5")
         p.mt-0.mb-0 En general, las dimensiones o estadios que pueden ser intervenidos en el diseño 2D y 3D permiten establecer, independiente del software usado, buenas prácticas de diseño, garantizando mejores resultados frente a aspectos estéticos, funcionales y comunicativos.
       
-      h3.mb-3.mt-5.blue_icon Finalización de archivos
+      h3(data-aos="fade-left").mb-3.mt-3.blue_icon Finalización de archivos
   
       .bloque-texto-g.color-primario.p-3.p-sm-4.p-md-5(data-aos="flip-up")
         .bloque-texto-g__img(
@@ -74,9 +75,17 @@
         )
         .bloque-texto-g__texto.p-4(data-aos="fade-left")
           p.mb-0 Las ilustraciones en 2D se desarrollan en un software de diseño vectorial o de edición fotográfica y las ilustraciones en 3D en software de modelado y motores de render. Generalmente, no importa con cuál programa se diseñe, lo importante es la coherencia entre el archivo de salida y la aplicación del proyecto en el contexto.
-      p.my-3 Es importante tener en cuenta que cambiarán las condiciones de salida, si el archivo se usará para impresiones en formato tipo tabloide o si será solo de acceso web; para esto es necesario identificar cuál será la finalización de archivos o la exportación de estos. 
-      p.my-3 Así, las condiciones gráficas para tener en cuenta son:
-  
+      
+      .row.justify-content-center.my-3
+        .col-lg-9(data-aos="fade-right")
+          p.my-3 Es importante tener en cuenta que cambiarán las condiciones de salida, si el archivo se usará para impresiones en formato tipo tabloide o si será solo de acceso web; para esto es necesario identificar cuál será la finalización de archivos o la exportación de estos. 
+          p.my-3 Así, las condiciones gráficas para tener en cuenta son:
+          .cajon.color-secundario.p-4.mt-4(style="background: #FDEFF5")
+            p.mt-0.mb-0 <strong>El color:</strong> entre los sistemas de color usados en el mercado del diseño, los más aplicados son el sistema CMYK (usado para impresión ya sea digital o litográfica) y el sistema RGB (para visualizaciones digitales).
+          p.my-3 La selección del sistema color se basa específicamente en la aplicación del producto final.
+        .col-lg-3.col-md-8.justify-content-center(data-aos="fade-left")
+          img(src="@/assets/curso/temas/tema2/img13.png", alt="imagen decorativa")
+
       TabsB.color-acento-contenido.my-4(data-aos="zoom-in")(style="background: #F9EDFB")
         .tarjeta.p-5.bgr2(titulo="Etapa de análisis" :icono="require('@/assets/curso/temas/tema2/img10.svg')")
           .row.align-content-center.justify-content-center

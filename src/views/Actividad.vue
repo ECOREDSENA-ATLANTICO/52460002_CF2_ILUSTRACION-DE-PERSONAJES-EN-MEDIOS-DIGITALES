@@ -18,7 +18,7 @@ export default {
       tema: 'Desarrollo de la ilustración',
       titulo: 'Cuestionario',
       introduccion:
-        '<b> Objetivo:</b> La ilustración de personajes para medios digitales utiliza diferentes tipos de herramientas tecnológicas ampliando las posibilidades creativas y técnicas en diversas industrias, desde el cine y la televisión hasta los videojuegos y la realidad virtual. Se utilizan variados tipos de software para 2D y 3D tales como Autodesk Maya, Blender, Construct2, y Rhinoceros.',
+        'Lea cada enunciado referente a los temas desarrollados en el componenteformativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: false,
       preguntas: [
         {
