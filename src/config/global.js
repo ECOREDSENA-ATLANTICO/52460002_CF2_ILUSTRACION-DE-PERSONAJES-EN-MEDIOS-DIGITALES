@@ -160,7 +160,7 @@ export default {
       referencia:
         'Arquitectura del motor de videojuegos. Universidad de Castilla. Escuela Superior de Informática. Fernández Vallejo, D.; y Martín Angelina, C. (2015). Desarrollo de videojuegos: un enfoque práctico.',
       link:
-        'http://www.cedv.es/mwg-internal/de5fs23hu73ds/progress?id=LWamv93pK8__ZiEHLMSoyl3n-aOz56X4L8TpH774D9Y',
+        'https://books.google.com.co/books?id=ylnABAAAQBAJ&printsec=frontcover#v=onepage&q&f=false',
     },
     {
       referencia:
@@ -180,24 +180,14 @@ export default {
     },
     {
       referencia:
-        'Fernández Vallejo, D.; y Martín Angelina, C. (2015). Desarrollo de videojuegos: un enfoque práctico. Recuperado el 12 de julio de 2017.',
-      link:
-        'http://www.cedv.es/mwg-internal/de5fs23hu73ds/progress?id=LWamv93pK8__ZiEHLMSoyl3n-aOz56X4L8TpH774D9Y',
-    },
-    {
-      referencia:
         'Garcerá Moreno, M. (2014). Diseño de personaje para animación. Recuperado el 10 de julio de 2017.',
-      link: 'https://goo.gl/qX27mH',
+      link:
+        'https://riunet.upv.es/bitstream/handle/10251/49941/TFG.%20Dise%C3%B1o%20de%20personaje%20para%20animaci%C3%B3n.%20Magode%2C%20la%20bruja.%20Mar%C3%ADa%20Garcer%C3%A1%20Moreno.pdf?sequence=1',
     },
     {
       referencia:
         'McGraw-Hill Education. (Sin fecha). Elementos visuales de la imagen. Recuperado el 15 de julio de 2017.',
-      link: 'http://assets.mheducation.es/bcv/guide/capitulo/844817724X.pdf',
-    },
-    {
-      referencia:
-        'Moreno Méndez, I. (Sin fecha). Creación de personajes para la publicidad. Recuperado el 15 de julio de 2017.',
-      link: 'https://riull.ull.es/xmlui/handle/915/1346',
+      link: 'https://www.mheducation.es/bcv/guide/capitulo/844817724X.pdf',
     },
     {
       referencia:

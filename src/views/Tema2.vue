@@ -7,12 +7,12 @@
           span 2
         h1 Representación final 2D-3D
       
-      .row.justify-content-center.mb-
+      .row.justify-content-center
         .col-lg-4.col-md-7(data-aos="fade-right")
           figure
           img.mt-4(src="@/assets/curso/temas/tema2/img1.png", alt="imagen decorativa")
         .col-lg-8(data-aos="fade-left")
-          .cajon.color-secundario.p-4.mt-3(style="background: #FDEFF5")
+          .cajon.color-secundario.p-4.my-3(style="background: #FDEFF5")
             p.mt-0.mb-0 Los personajes en 2D y en 3D se diseñan, modelan, renderizan y por medio de diferentes herramientas y software especializado, el cual cada vez más genera productos de mayor realismo y detalle. Para 
           p.mb Para ello, se debe tener en cuenta que el proceso tecnológico del modelado, renderizado y animación debe concordar con los requerimientos iniciales del cliente expuestos en el brief, así el éxito del diseñador radica en seleccionar las herramientas necesarias para cumplir con las condiciones del proyecto y sus aplicaciones en el contexto. 
       

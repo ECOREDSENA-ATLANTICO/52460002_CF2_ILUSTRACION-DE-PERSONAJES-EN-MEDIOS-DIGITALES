@@ -27,8 +27,8 @@
               .col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen decorativa')
-            .row.px-5.pt-3
-              .col-md-6.mb-4.mb-md-0.align-content-center
+            .row.px-3.pt-3
+              .col-lg-6.col-md-12.mb-4.mb-md-0.align-content-center
                 h4 Stop motion
                   p.mt-4 Técnica que consiste en generar movimiento cuadro a cuadro a figuras, generalmente a escala, por medio de fotografías.
                   p.mt-3 Fuente: <a href="Stop Motion o Animación en Volumen ¿Qué es? (monsuton.com">Stop Motion o Animación en Volumen</a>
@@ -36,8 +36,8 @@
               .col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img4.png', alt='Imagen decorativa')
-            .row.px-5.pt-3
-              .col-md-6.mb-4.mb-md-0.align-content-center
+            .row.px-3.pt-3
+              .col-lg-6.col-md-12.mb-4.mb-md-0.align-content-center
                 h4 Animación 3D
                   p.mt-4 Llamada animación digital, es una técnica que se realiza en software de diseño 3D y su  principio es la creación de personajes por medio de figuras geométricas con profundidad, altura y ancho.
                   p.mt-3 Fuente: <a href="https://www.renderforest.com/es/blog/3d-animation">Animación 3D</a>
