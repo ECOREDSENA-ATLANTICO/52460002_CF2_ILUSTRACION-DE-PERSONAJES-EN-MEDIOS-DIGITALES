@@ -30,7 +30,7 @@
   
             .row(numero="2" titulo="Grosor de línea")
               .col-md-12.mb-4.mb-md-0
-                p Usar ciertos espesores y tipos de pincel para los contornos de las ilustraciones permite diferenciar a los ilustradores. El tipo de línea puede convertirse en un factor diferenciador para que el ilustrador defina sus creaciones. Generalmente los programas especializados cuentan con amplias bibliotecas de tipos de pinceles y formas de línea.
+                p Usar ciertos espesores y tipos de pincel para los contornos de las ilustraciones que permite diferenciar a los ilustradores el tipo de línea, puede convertirse en un factor diferenciador para que el ilustrador defina sus creaciones. Generalmente los programas especializados cuentan con amplias bibliotecas de tipos de pinceles y formas de línea.
   
             .row(numero="3" titulo="Cantidad de componentes")
               .col-md-12.mb-4.mb-md-0
@@ -54,7 +54,7 @@
           LineaTiempoD.color-acento-botones
             .row(numero="1" titulo="La escala")
               .col-md-12.mb-4.mb-md-0
-                p.text-small Permite encajar al personaje en el escenario por medio de los tamaños y su disposición. Para desarrollar una óptima composición de espacios, por ejemplo, para el diseño de videojuegos, se requiere que todos los objetos modelados tengan la misma escala de referencia. Además, los modelados 3D deben contener detalles que definan las características, los elementos elaborados con redondeos, las transiciones de forma y la mezcla de materiales; así pensar en la escala permite que el renderizado sea más cercano a la realidad, objetivo principal del modelado.
+                p.text-small Permite encajar al personaje en el escenario por medio de los tamaños y su disposición. Para desarrollar una óptima composición de espacios, por ejemplo, para el diseño de videojuegos, se requiere que todos los objetos modelados tengan la misma escala de referencia. Además, los modelados 3D deben contener detalles que definan las características, los elementos elaborados con redondeos, las transiciones de forma y la mezcla de materiales; así pensar en la escala, permite que el renderizado sea más cercano a la realidad, objetivo principal del modelado.
   
             .row(numero="2" titulo="La ubicación")
               .col-md-12.mb-4.mb-md-0
@@ -90,7 +90,7 @@
         .tarjeta.p-5.bgr2(titulo="Fuentes tipográficas" :icono="require('@/assets/curso/temas/tema2/img10.svg')")
           .row.align-content-center.justify-content-center
             .col-lg-7.align-content-center.justify-content-center     
-              p Cuando el personaje diseñado tiene entre sus elementos gráficos texto que complemente su función, al momento de analizar archivos, es necesario convertir a curvas el texto, lo que sígnica vectorizar las letras usadas, para tener la posibilidad de abrir el archivo en otro computador sin modificar su forma y extensión. Si no se desea vectorizar se requiere adjuntar las fuentes tipográficas usadas en el diseño, para que no se cambie el estilo gráfico de la pieza.
+              p Cuando el personaje diseñado tiene entre sus elementos gráficos un texto que complemente su función, al momento de analizar archivos, es necesario convertir a curvas el texto, lo que sígnica vectorizar las letras usadas, para tener la posibilidad de abrir el archivo en otro computador sin modificar su forma y extensión. Si no se desea vectorizar se requiere adjuntar las fuentes tipográficas usadas en el diseño, para que no se cambie el estilo gráfico de la pieza.
             .col-lg-5.col-md-8.align-content-center.justify-content-center
               img(src="@/assets/curso/temas/tema2/img6.png", alt="imagen decorativa")
         .tarjeta.p-5.bgr2(titulo="Imágenes" :icono="require('@/assets/curso/temas/tema2/img11.svg')")
