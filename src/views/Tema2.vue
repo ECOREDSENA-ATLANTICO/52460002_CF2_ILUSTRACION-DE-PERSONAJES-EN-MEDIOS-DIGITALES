@@ -34,7 +34,7 @@
   
             .row(numero="3" titulo="Cantidad de componentes")
               .col-md-12.mb-4.mb-md-0
-                p En el diseño de personajes y en general, en las ramas creativas, el concepto "Smenos es más", quiere decir que se puede compartir información más eficiente y acertada desde pocos elementos bien definidos, y no con escenarios saturados y recargados de imágenes, colores y formas. Se recomienda para el diseño de personajes hacer uso de elementos relevantes que aporten al concepto del diseño, no rellenar espacios sin sentido ni mesura.
+                p En el diseño de personajes y en general, en las ramas creativas, el concepto "menos es más", quiere decir que se puede compartir información más eficiente y acertada desde pocos elementos bien definidos, y no con escenarios saturados y recargados de imágenes, colores y formas. Se recomienda para el diseño de personajes hacer uso de elementos relevantes que aporten al concepto del diseño, no rellenar espacios sin sentido ni mesura.
   
             .row(numero="4" titulo="Colores")
               .col-md-12.mb-4.mb-md-0
