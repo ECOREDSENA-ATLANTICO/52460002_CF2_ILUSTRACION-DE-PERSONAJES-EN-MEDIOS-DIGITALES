@@ -18,13 +18,13 @@ export default {
       tema: 'Desarrollo de la ilustración',
       titulo: 'Cuestionario',
       introduccion:
-        'Lea cada enunciado referente a los temas desarrollados en el componenteformativo y elija entre verdadero y falso según corresponda.',
+        'Lea cada enunciado referente a los temas desarrollados en el componente formativo y elija entre verdadero y falso según corresponda.',
       barajarPreguntas: false,
       preguntas: [
         {
           id: 1,
           texto:
-            'La ilustración digital no utiliza software para el desarrollo de personajes.',
+            'La ilustración digital no utiliza <em>software</em> para el desarrollo de personajes.',
           imagen: require('@/assets/actividad/pregunta_1.png'),
           barajarRespuestas: true,
           opciones: [
@@ -62,7 +62,7 @@ export default {
         },
         {
           id: 4,
-          texto: 'Stop motion es una técnica de animación.',
+          texto: '<em>Stop motion</em> es una técnica de animación.',
           imagen: require('@/assets/actividad/pregunta_4.png'),
           barajarRespuestas: true,
           opciones: [
@@ -75,7 +75,7 @@ export default {
         {
           id: 5,
           texto:
-            'Maya es un software que se utiliza en proyectos de animación.',
+            'Maya es un <em>software</em> que se utiliza en proyectos de animación.',
           imagen: require('@/assets/actividad/pregunta_1.png'),
           barajarRespuestas: true,
           opciones: [

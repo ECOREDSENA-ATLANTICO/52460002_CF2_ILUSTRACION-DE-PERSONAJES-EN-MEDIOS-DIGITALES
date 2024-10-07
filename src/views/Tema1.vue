@@ -22,16 +22,16 @@
               .col-lg-6.mb-4.mb-md-0.align-content-center
                 h4 Dibujos animados 2D
                   p.mt-4 Técnica de animación tradicional que consiste en dibujar cuadro a cuadro cada dibujo con sus respectivos componentes, escenario y personajes.
-                  p.mt-3 Fuente: Pinterest
+                  p.mt-3 Fuente: Pinterest.
 
               .col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img3.png', alt='Imagen decorativa')
             .row.px-3.pt-3
               .col-lg-6.col-md-12.mb-4.mb-md-0.align-content-center
-                h4 Stop motion
+                h4 <em>Stop motion</em>
                   p.mt-4 Técnica que consiste en generar movimiento cuadro a cuadro a figuras, generalmente a escala, por medio de fotografías.
-                  p.mt-3 Fuente: <a href="Stop Motion o Animación en Volumen ¿Qué es? (monsuton.com">Stop Motion o Animación en Volumen</a>
+                  p.mt-3 Fuente: <a href="https://www.monsuton.com/stop-motion/"><em>Stop Motion</em> o Animación en Volumen</a>
 
               .col-lg-6
                 figure
@@ -39,59 +39,59 @@
             .row.px-3.pt-3
               .col-lg-6.col-md-12.mb-4.mb-md-0.align-content-center
                 h4 Animación 3D
-                  p.mt-4 Llamada animación digital, es una técnica que se realiza en software de diseño 3D y su  principio es la creación de personajes por medio de figuras geométricas con profundidad, altura y ancho.
+                  p.mt-4 Llamada animación digital, es una técnica que se realiza en <em>software</em> de diseño 3D y su  principio es la creación de personajes por medio de figuras geométricas con profundidad, altura y ancho.
                   p.mt-3 Fuente: <a href="https://www.renderforest.com/es/blog/3d-animation">Animación 3D</a>
 
               .col-lg-6
                 figure
                   img(src='@/assets/curso/temas/tema1/img5.png', alt='Imagen decorativa')
               
-      h3(data-aos="fade-left").mb-3.mt-3.blue_icon Software para desarrollo de personajes
+      h3(data-aos="fade-left").mb-3.mt-3.blue_icon <em>Software</em> para desarrollo de personajes
 
-      p.mt-3.mb-5 Después de identificar el tipo de animación a realizar, se debe seleccionar el software que apoyará el diseño y construcción del personaje, entre algunos de estos programas informáticos se encuentran:
+      p.mt-3.mb-5 Después de identificar el tipo de animación a realizar, se debe seleccionar el <em>software</em> que apoyará el diseño y construcción del personaje, entre algunos de estos programas informáticos se encuentran:
 
       .row.justify-content-center.align-content-center(data-aos="zoom-in")
         .col-lg-12
           TabsA.mb-5
-            .tarjeta.p-4(style="background: #E5E4FF")(titulo="Adobe animate")
+            .tarjeta.p-4(style="background: #E5E4FF")(titulo="<em>Adobe animate</em>")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
-                  p Software profesional para realizar animaciones en 2D para aplicaciones en la web, la televisión y para el desarrollo de videojuegos. - Es una evolución del software Adobe Flash. Dentro de sus lenguajes de programación cuenta con Actionscript para proyectos Flash y Javascript para proyectos web basados en html5.
+                  p <em>Software</em> profesional para realizar animaciones en 2D para aplicaciones en la <em>web</em>, la televisión y para el desarrollo de videojuegos. Es una evolución del <em>software Adobe Flash</em>. Dentro de sus lenguajes de programación cuenta con <em>Actionscript</em> para proyectos <em>Flash</em> y <em>Javascript</em> para proyectos <em>web</em> basados en html5.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img7.png', alt='Imagen decorativa')
             .tarjeta.p-4(style="background: #E5E4FF")(titulo="3DS Max")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
-                  p Software de modelado 3D más reconocido en el mercado. Permite realizar modelado, renderizado, generación de fuentes de iluminación, composiciones digitales y animaciones con aplicaciones entre los videojuegos, el diseño de productos industriales, escenarios y la simulación estética de materiales reales. 
+                  p <em>Software</em> de modelado 3D más reconocido en el mercado. Permite realizar modelado, renderizado, generación de fuentes de iluminación, composiciones digitales y animaciones con aplicaciones entre los videojuegos, el diseño de productos industriales, escenarios y la simulación estética de materiales reales. 
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img8.png', alt='Imagen decorativa')
-            .tarjeta.p-4(style="background: #E5E4FF")(titulo="Rhinoceros")
+            .tarjeta.p-4(style="background: #E5E4FF")(titulo="<em>Rhinoceros</em>")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
-                  p Software en el que se puede crear, editar, modelar, animar y renderizar, sobre guras geométricas y mallas poligonales. Es una plataforma muy flexible para el diseño y modelado de guras orgánicas, porque ofrece la precisión necesaria para su manufactura, por lo que su enfoque es el diseño de prototipos de ingeniería, el análisis, validación y la fabricación de cualquier producto.
+                  p <em>Software</em> en el que se puede crear, editar, modelar, animar y renderizar, sobre figuras geométricas y mallas poligonales. Es una plataforma muy flexible para el diseño y modelado de figuras orgánicas, porque ofrece la precisión necesaria para su manufactura, por lo que su enfoque es el diseño de prototipos de ingeniería, el análisis, validación y la fabricación de cualquier producto.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img9.png', alt='Imagen decorativa')
-            .tarjeta.p-4(style="background: #E5E4FF")(titulo="Construct 2")
+            .tarjeta.p-4(style="background: #E5E4FF")(titulo="<em>Construct 2</em>")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
                   p Editor de diseño que proporciona una interfaz visual para diseñar por niveles. Se puede arrastrar, rotar y cambiar el tamaño de los objetos, visualizar los efectos aplicados.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen decorativa')
-            .tarjeta.p-4(style="background: #E5E4FF")(titulo="Blender")
+            .tarjeta.p-4(style="background: #E5E4FF")(titulo="<em>Blender</em>")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
-                  p Software que inició para modelado 3D de uso y descarga libre. Su diseño modular y abierto ha permitido que los usuarios creen, modifiquen y mejoren sus aplicaciones, lo que ha generado un software polifacético, colaborativo, potente y versátil en su instalación, portabilidad y funcionalidad.
+                  p <em>Software</em> que inició para modelado 3D de uso y descarga libre. Su diseño modular y abierto ha permitido que los usuarios creen, modifiquen y mejoren sus aplicaciones, lo que ha generado un <em>software</em> polifacético, colaborativo, potente y versátil en su instalación, portabilidad y funcionalidad.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img11.png', alt='Imagen decorativa')
             .tarjeta.p-4(style="background: #E5E4FF")(titulo="Maya")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
-                  p Software de la casa Autodesk, que surge para el modelado y animación de objetos en 3D como personajes, escenarios y motion graphics con un énfasis especial en efectos para cine.
+                  p <em>Software</em> de la casa <em>Autodesk</em>, que surge para el modelado y animación de objetos en 3D como personajes, escenarios y <em>motion graphics</em> con un énfasis especial en efectos para cine.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img12.png', alt='Imagen decorativa')

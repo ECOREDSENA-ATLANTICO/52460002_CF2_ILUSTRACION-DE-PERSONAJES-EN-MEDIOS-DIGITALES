@@ -2,7 +2,7 @@ export default {
   global: {
     componenteFormativo: 'Desarrollo de la ilustración',
     descripcionCurso:
-      'La ilustración de personajes para medios digitales utiliza diferentes tipos de herramientas tecnológicas para su desarrollo, utilizando software especializado que permite generar productos, vectores, mapas de bits, animaciones digitales, modelado 3D, renders en variadas aplicaciones.',
+      'La ilustración de personajes para medios digitales utiliza diferentes tipos de herramientas tecnológicas para su desarrollo, utilizando <em>software</em> especializado que permite generar productos, vectores, mapas de bits, animaciones digitales, modelado 3D, <em>renders</em> en variadas aplicaciones.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner_princiapal.png'),
     fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
     imagenesDecorativasBanner: [
@@ -103,7 +103,8 @@ export default {
   glosario: [
     {
       termino: '<em>ActionScript</em>',
-      significado: 'lenguaje de programación usado en el software Adobe Flash.',
+      significado:
+        'lenguaje de programación usado en el <em>software Adobe Flash</em>.',
     },
     {
       termino: '<em>Framework</em>',
@@ -131,12 +132,12 @@ export default {
     {
       termino: 'Modelado 3D',
       significado:
-        'tipo de ilustración que se basa en la construcción de objetos tridimensionales a partir de figuras geométricas desde un software de diseño 3D.',
+        'tipo de ilustración que se basa en la construcción de objetos tridimensionales a partir de figuras geométricas desde un <em>software</em> de diseño 3D.',
     },
     {
       termino: 'Motor de render',
       significado:
-        'es un plugin, generalmente integrado a un software de modelado 3D, que permite crear una vista realista del modelo a partir de la aplicación de materiales y la manipulación de la iluminación.',
+        'es un <em>plugin</em>, generalmente integrado a un <em>software</em> de modelado 3D, que permite crear una vista realista del modelo a partir de la aplicación de materiales y la manipulación de la iluminación.',
     },
     {
       termino: 'Renderizar',
@@ -202,11 +203,11 @@ export default {
         {
           nombre: 'Milady Tatiana Villamil Castellanos',
           cargo:
-            'Responsable del ecosistemade recursos educativos digitales (RED)',
+            'Responsable del ecosistema de recursos educativos digitales (RED)',
           centro: 'Dirección general',
         },
         {
-          nombre: 'Miguel de Jesús ParedesMaestre',
+          nombre: 'Miguel de Jesús Paredes Maestre',
           cargo: 'Responsable de línea de producción',
           centro:
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
@@ -229,7 +230,7 @@ export default {
             'Centro de diseño e innovación tecnológica industrial – Regional Risaralda',
         },
         {
-          nombre: 'Luis Guillermo Alvarez Garcia',
+          nombre: 'Luis Guillermo Álvarez García',
           cargo: 'Evaluador instruccional',
           centro:
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
@@ -240,8 +241,8 @@ export default {
       titulo: 'DISEÑO Y DESARROLLO DE RECURSOS EDUCATIVOS DIGITALES',
       autores: [
         {
-          nombre: 'Eulises OrduzAmezquita',
-          cargo: 'Diseñador web',
+          nombre: 'Eulises Orduz Amezquita',
+          cargo: 'Diseñador <em>web</em>',
           centro:
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
         },
@@ -252,7 +253,7 @@ export default {
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Carmen Alicia Martinez Torres',
+          nombre: 'Carmen Alicia Martínez Torres',
           cargo: 'Animador y productor audiovisual',
           centro:
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
@@ -275,7 +276,7 @@ export default {
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
         },
         {
-          nombre: 'Juan CarlosCardona Acosta',
+          nombre: 'Juan Carlos Cardona Acosta',
           cargo: 'Validador de recursos educativos digitales',
           centro:
             'Centro para el desarrollo agroecológico y agroindustrial Sabanalarga - Regional Atlántico',
