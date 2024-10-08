@@ -2,7 +2,7 @@
 
 ## **Enlace GitHubPages**
 
-[https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/](https://ecored-sena.github.io/ECORED_TEMPLATE_REPO/)
+[https://ecoredsena-atlantico.github.io/52460002_CF2_ILUSTRACION-DE-PERSONAJES-EN-MEDIOS-DIGITALES/#/](https://ecoredsena-atlantico.github.io/52460002_CF2_ILUSTRACION-DE-PERSONAJES-EN-MEDIOS-DIGITALES/#/)
 
 #
 
