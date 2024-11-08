@@ -74,7 +74,7 @@
           :style="{'background-image': `url(${require('@/assets/curso/temas/tema2/img4.png')})`}"
         )
         .bloque-texto-g__texto.p-4(data-aos="fade-left")
-          p.mb-0 Las ilustraciones en 2D se desarrollan en un <em>software</em> de diseño vectorial o de edición fotográfica y las ilustraciones en 3D en <em>software</em> de modelado y motores de render. Generalmente, no importa con cuál programa se diseñe, lo importante es la coherencia entre el archivo de salida y la aplicación del proyecto en el contexto.
+          p.mb-0 Las ilustraciones en 2D se desarrollan en un <em>software</em> de diseño vectorial o de edición fotográfica y las ilustraciones en 3D en <em>software</em> de modelado y motores de <em>render</em>. Generalmente, no importa con cuál programa se diseñe, lo importante es la coherencia entre el archivo de salida y la aplicación del proyecto en el contexto.
       
       .row.justify-content-center.my-3
         .col-lg-9(data-aos="fade-right")
@@ -102,7 +102,7 @@
         .tarjeta.p-5.bgr2(titulo="Guardar archivo" :icono="require('@/assets/curso/temas/tema2/img12.svg')")
           .row.align-content-center.justify-content-center
             .col-lg-7.align-content-center.justify-content-center     
-              p Generalmente, los formatos para el diseño 2D sin hablar de animación, solo de diseño e ilustración, son formatos de imagen como .jpeg, .jpg, .png, .ti , o .bmp. Aquí se debe tener en cuenta la cantidad de pixeles que requiere y la calidad del archivo, sopesando el tamaño frente a la calidad de la imagen. Los formatos de salida de los modelos diseñados en tres dimensiones generalmente son: .3dm, .3ds, .dwg, .obj o .blend, extensiones de los archivos nativos que permiten guardar toda la información del modelo y su posterior modificación. Si la aplicación gráfica del personaje diseñado es estática, los archivos se exportan como imagen plana, los formatos más usados son: .jpeg, .jpg, .png, .ti , o .bmp.
+              p Generalmente, los formatos para el diseño 2D sin hablar de animación, solo de diseño e ilustración, son formatos de imagen como .jpeg, .jpg, .png, .ti , o .bmp. Aquí se debe tener en cuenta la cantidad de píxeles que requiere y la calidad del archivo, sopesando el tamaño frente a la calidad de la imagen. Los formatos de salida de los modelos diseñados en tres dimensiones generalmente son: .3dm, .3ds, .dwg, .obj o .blend, extensiones de los archivos nativos que permiten guardar toda la información del modelo y su posterior modificación. Si la aplicación gráfica del personaje diseñado es estática, los archivos se exportan como imagen plana, los formatos más usados son: .jpeg, .jpg, .png, .ti , o .bmp.
             .col-lg-5.col-md-8.align-content-center.justify-content-center
               img(src="@/assets/curso/temas/tema2/img8.png", alt="imagen decorativa")
       

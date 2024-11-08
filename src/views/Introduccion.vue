@@ -12,7 +12,7 @@
     
     .video
       iframe(width="560" height="315" src="https://www.youtube.com/embed/CtVZeUImYlA?si=nwr7Ma1C6USiDJK7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-    figcaption Nota: Sena.
+    figcaption Nota: Desarrollo de la ilustración.
     p.my-3 El cine, la televisión y los videojuegos se potencializan día a día, gracias al uso de los adelantos tecnológicos en su desarrollo, por lo que diseñar e ilustrar personajes es de gran importancia para la producción audiovisual, acciones consolidadas a través de la utilización de <em>software</em> especializado que permite generar productos de mayor calidad y cada vez, más cercanos a la realidad.
 
     .cajon.color-secundario.p-4(style="background: #FDEFF5")

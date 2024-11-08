@@ -14,7 +14,7 @@
         .col-lg-8(data-aos="fade-left")
           p.mb Técnica por la cual se otorga movimiento cuadro a cuadro a un dibujo, imagen o un modelado 3D. En la animación existen diferentes técnicas dependiendo del resultado a requerir.
           .cajon.color-secundario.p-4(style="background: #FDEFF5")
-            p.mt-0.mb-0 Las técnicas de animación son métodos utilizados para crear la ilusión de movimiento en imágenes estáticas. Estas técnicas varían en su enfoque y herramientas, y cada una ofrece diferentes resultados y niveles de complejidad.
+            p.mt-0.mb-0 Las técnicas de animación son métodos utilizados para crear la ilusión de movimiento en imágenes estáticas. Estas técnicas varían en su enfoque y herramientas, cada una ofrece diferentes resultados y niveles de complejidad.
       .row.justify-content-center.my-3.fondo-imagen.p-4
         .tarjeta.tarjeta--blanca.p-4(data-aos="fade-up")
           SlyderA(tipo="b")
@@ -53,10 +53,10 @@
       .row.justify-content-center.align-content-center(data-aos="zoom-in")
         .col-lg-12
           TabsA.mb-5
-            .tarjeta.p-4(style="background: #E5E4FF")(titulo="<em>Adobe animate</em>")
+            .tarjeta.p-4(style="background: #E5E4FF")(titulo="Adobe animate")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
-                  p <em>Software</em> profesional para realizar animaciones en 2D para aplicaciones en la <em>web</em>, la televisión y para el desarrollo de videojuegos. Es una evolución del <em>software Adobe Flash</em>. Dentro de sus lenguajes de programación cuenta con <em>Actionscript</em> para proyectos <em>Flash</em> y <em>Javascript</em> para proyectos <em>web</em> basados en html5.
+                  p <em>Software</em> profesional para realizar animaciones en 2D para aplicaciones en la <em>web</em>, la televisión y para el desarrollo de videojuegos. Es una evolución del software Adobe Flash. Dentro de sus lenguajes de programación cuenta con Actionscript para proyectos Flash y Javascript para proyectos <em>web</em> basados en HTML5.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img7.png', alt='Imagen decorativa')
@@ -67,21 +67,21 @@
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img8.png', alt='Imagen decorativa')
-            .tarjeta.p-4(style="background: #E5E4FF")(titulo="<em>Rhinoceros</em>")
+            .tarjeta.p-4(style="background: #E5E4FF")(titulo="Rhinoceros")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
                   p <em>Software</em> en el que se puede crear, editar, modelar, animar y renderizar, sobre figuras geométricas y mallas poligonales. Es una plataforma muy flexible para el diseño y modelado de figuras orgánicas, porque ofrece la precisión necesaria para su manufactura, por lo que su enfoque es el diseño de prototipos de ingeniería, el análisis, validación y la fabricación de cualquier producto.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img9.png', alt='Imagen decorativa')
-            .tarjeta.p-4(style="background: #E5E4FF")(titulo="<em>Construct 2</em>")
+            .tarjeta.p-4(style="background: #E5E4FF")(titulo="Construct 2")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
                   p Editor de diseño que proporciona una interfaz visual para diseñar por niveles. Se puede arrastrar, rotar y cambiar el tamaño de los objetos, visualizar los efectos aplicados.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img10.png', alt='Imagen decorativa')
-            .tarjeta.p-4(style="background: #E5E4FF")(titulo="<em>Blender</em>")
+            .tarjeta.p-4(style="background: #E5E4FF")(titulo="Blender")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
                   p <em>Software</em> que inició para modelado 3D de uso y descarga libre. Su diseño modular y abierto ha permitido que los usuarios creen, modifiquen y mejoren sus aplicaciones, lo que ha generado un <em>software</em> polifacético, colaborativo, potente y versátil en su instalación, portabilidad y funcionalidad.
@@ -91,7 +91,7 @@
             .tarjeta.p-4(style="background: #E5E4FF")(titulo="Maya")
               .row.justify-content-center.p-3
                 .col-lg-5.col-md-12.align-content-center  
-                  p <em>Software</em> de la casa <em>Autodesk</em>, que surge para el modelado y animación de objetos en 3D como personajes, escenarios y <em>motion graphics</em> con un énfasis especial en efectos para cine.
+                  p <em>Software</em> de la casa Autodesk, que surge para el modelado y animación de objetos en 3D como personajes, escenarios y motion graphics con un énfasis especial en efectos para cine.
                 .col-lg-7.col.col-md-8
                   figure
                     img(src='@/assets/curso/temas/tema1/img12.png', alt='Imagen decorativa')

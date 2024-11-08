@@ -104,7 +104,7 @@ export default {
     {
       termino: '<em>ActionScript</em>',
       significado:
-        'lenguaje de programación usado en el <em>software Adobe Flash</em>.',
+        'lenguaje de programación usado en el <em>software</em> Adobe Flash.',
     },
     {
       termino: '<em>Framework</em>',
