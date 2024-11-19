@@ -153,7 +153,7 @@ export default {
         'https://s3.accesoperu.com/wp6/includes/htmlarea/mezclador/ayuda/ec.htm',
     },
     {
-      referencia: 'Arte y empresa. (Sin fecha). Diseño de personajes.',
+      referencia: 'Arte y empresa. (s.f.). Diseño de personajes.',
       link: 'http://www.arteyempresa.ugto.mx/docs/esp_personjaes.pdf',
     },
     {
@@ -167,7 +167,7 @@ export default {
       link: 'https://dle.rae.es/anatom%C3%ADa',
     },
     {
-      referencia: 'Canon del cuerpo humano. (s. f.).',
+      referencia: 'Canon del cuerpo humano. (s.f.).',
       link:
         'https://guiapolyclay.jimdofree.com/anatom%C3%ADa-art%C3%ADstica/canon-del-cuerpo-humano/',
     },
@@ -183,7 +183,7 @@ export default {
     },
     {
       referencia:
-        'Garcerá Moreno, M. (s. f.). Diseño de personaje para animación.',
+        'Garcerá Moreno, M. (s.f.). Diseño de personaje para animación.',
       link:
         'https://riunet.upv.es/bitstream/handle/10251/49941/TFG.%20Dise%C3%B1o%20de%20%20personaje%20para%20animaci%C3%B3n.%20Magode%2C%20la%20bruja.%20Mar%C3%ADa%20Garcer%C3%A1%20Moreno.pdf?sequence=1',
     },
@@ -235,12 +235,12 @@ export default {
       link: '',
     },
     {
-      referencia: 'Real Academia Española. (s. f.). Anatomía.',
+      referencia: 'Real Academia Española. (s.f.). Anatomía.',
       link: 'https://dle.rae.es/anatom%C3%ADa',
     },
     {
       referencia:
-        'Reina Flores, M. del C. (s. f.). Series animadas y población infantil.',
+        'Reina Flores, M. del C. (s.f.). Series animadas y población infantil.',
       link:
         'https://www.revistacomunicar.com/verpdf.php?numero=25&articulo=25-2005-194',
     },
@@ -260,12 +260,6 @@ export default {
       referencia:
         'Trazos de lápiz de un personaje. (2024). Freepik.es. Fotografías renderizadas en 3D de dibujos de personajes de caricaturas y animales | Imagen Premium generada con IA (freepik.es).',
       link: '',
-    },
-    {
-      referencia:
-        'Vecellio Reane, F.L. (s.f.). ¿Qué es un brief y cómo realizarlo?',
-      link:
-        'https://rossami.com/kafka-y-praga-praga-y-kafka/lengua-mortal-no-dice-lo-que-dentro-sentia-leopardi/para-que-lean-y-con-gusto/que-es-el-brief-y-como-realizarlo/',
     },
   ],
   creditos: [
