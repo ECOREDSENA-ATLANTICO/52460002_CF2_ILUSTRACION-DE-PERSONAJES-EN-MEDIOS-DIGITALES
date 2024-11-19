@@ -148,52 +148,124 @@ export default {
   referencias: [
     {
       referencia:
-        'Adobe.com. (Sin fecha). Importación de imágenes 3D desde Photoshop e Illustrator.',
+        'AccesoPerú.com. (s.f.). Los esquemas de colores. El círculo cromático.',
       link:
-        'https://helpx.adobe.com/es/after-effects/using/preparing-importing-3d-image-files.html',
+        'https://s3.accesoperu.com/wp6/includes/htmlarea/mezclador/ayuda/ec.htm',
+    },
+    {
+      referencia: 'Arte y empresa. (Sin fecha). Diseño de personajes.',
+      link: 'http://www.arteyempresa.ugto.mx/docs/esp_personjaes.pdf',
     },
     {
       referencia:
-        'Angelina, C.  (2013). Arquitectura del motor de videojuegos. Universidad de Castilla. Escuela Superior de Informática.',
+        'Blackburn Berezina, V. (2016). Motion Capture History, Technologies and Applications. BerezinaBlackburnCV_2017.pdf (ohio-state.edu).',
+      link:
+        'https://www.asc.ohio-state.edu/berezina-blackburn.1/BerezinaBlackburnCV_2017.pdf',
+    },
+    {
+      referencia: 'Cahuex, A. (2014). Ilustración digital.',
+      link: 'https://dle.rae.es/anatom%C3%ADa',
+    },
+    {
+      referencia: 'Canon del cuerpo humano. (s. f.).',
+      link:
+        'https://guiapolyclay.jimdofree.com/anatom%C3%ADa-art%C3%ADstica/canon-del-cuerpo-humano/',
+    },
+    {
+      referencia:
+        'Chacón Gordillo, P. D. (2011). ¿Cómo interpretan los niños y niñas de educación infantil las series y películas de animación y los videojuegos? Un análisis a través del dibujo (Tesis doctoral). Editorial de la Universidad de Granada.',
+      link: 'https://digibug.ugr.es/handle/10481/18411',
+    },
+    {
+      referencia:
+        'Expresiones de un personaje (2024). Freepik.es. Personaje mostrando emociones | Vector Gratis (freepik.es).',
       link: '',
     },
     {
       referencia:
-        'Arquitectura del motor de videojuegos. Universidad de Castilla. Escuela Superior de Informática. Fernández Vallejo, D.; y Martín Angelina, C. (2015). Desarrollo de videojuegos: un enfoque práctico.',
+        'Garcerá Moreno, M. (s. f.). Diseño de personaje para animación.',
       link:
-        'https://books.google.com.co/books?id=ylnABAAAQBAJ&printsec=frontcover#v=onepage&q&f=false',
+        'https://riunet.upv.es/bitstream/handle/10251/49941/TFG.%20Dise%C3%B1o%20de%20%20personaje%20para%20animaci%C3%B3n.%20Magode%2C%20la%20bruja.%20Mar%C3%ADa%20Garcer%C3%A1%20Moreno.pdf?sequence=1',
     },
     {
       referencia:
-        'Arte y empresa. (Sin fecha). Diseño de personajes. Recuperado el 16 de julio de 2017.',
-      link: 'http://www.arteyempresa.ugto.mx/docs/esp_personjaes.pdf ',
+        'Garrido Domínguez, A. (1996). El texto narrativo. Diseño de personajes by Luz Deicy Garces Montano – Issuu.',
+      link: '',
     },
     {
       referencia:
-        'Creación de personajes y escenarios para entornos de video juegos en 3D.',
+        'González, R. (2011). Apuntes generales de anatomía morfológica aplicada cánones y proporciones.',
+      link:
+        'https://docta.ucm.es/entities/publication/6e015a24-5080-44c4-93d3-5058aaccf127',
+    },
+    {
+      referencia:
+        'Hoja del personaje. Reddit Media. (s.f.) Custom Curse-of-Strahd Character Sheet 5e (download in comment) : r/CurseofStrahd (reddit.com).',
+      link:
+        'https://www.reddit.com/r/CurseofStrahd/comments/11pptos/custom_curseofstrahd_character_sheet_5e_download/?rdt=52008',
+    },
+    {
+      referencia:
+        'López Fumero, D. (2015). Creación de personajes y escenarios para entornos de video juegos en 3D.',
       link: 'https://riull.ull.es/xmlui/handle/915/1346',
     },
     {
       referencia:
-        'EducaciónPlástica.net. (Sin fecha). Elementos del lenguaje gráfico-plástico.',
+        'Migliónico Molina, R. (s.f.). Qué es el brief y cómo realizarlo.',
       link:
-        'http://www.educacionplastica.net/epv1eso/impress/pdfs/elementos_del_lenguaje.pdf',
+        'https://rossami.com/kafka-y-praga-praga-y-kafka/lengua-mortal-no-dice-lo-que-dentro-sentia-leopardi/para-que-lean-y-con-gusto/que-es-el-brief-y-como-realizarlo/',
+    },
+    {
+      referencia: 'Muñis, R. (s.f.). Atributos de producto.',
+      link: 'https://www.marketing-xxi.com/atributos-de-producto-35.htm',
     },
     {
       referencia:
-        'Garcerá Moreno, M. (2014). Diseño de personaje para animación. Recuperado el 10 de julio de 2017.',
+        'Navarro Lizandra, J. L. (s.f.). Fundamentos del diseño. Temas para la introducción a los fundamentos del diseño.',
       link:
-        'https://riunet.upv.es/bitstream/handle/10251/49941/TFG.%20Dise%C3%B1o%20de%20personaje%20para%20animaci%C3%B3n.%20Magode%2C%20la%20bruja.%20Mar%C3%ADa%20Garcer%C3%A1%20Moreno.pdf?sequence=1',
+        'https://books.google.com.co/books?id=hUyeuVdFgk8C&pg=PA38&lpg=PA38&dq=colores+principales+del+c%C3%ADrculo+que+no+se+obtienen+con+la+mezcla+de+ning%C3%BAn+otro+color.+Con+estos+surgen+la+mayor%C3%ADa+de+los+otros+colores.+Son+rojo,+amarillo+y+azul.&source=bl&ots=z9gr9owF4w&sig=XuMPPUrvWQVvNRt1BT0TxHL1WW8&hl=es&sa=X&ved=0ahUKEwiLpoTWzMDUAhVGQSYKHQIBDjIQ6AEIJDAA#v=onepage&q=colores%20principales%20del%20c%C3%ADrculo%20que%20no%20se%20obtienen%20con%20la%20mezcla%20de%20ning%C3%BAn%20otro%20color.%20Con%20estos%20surgen%20la%20mayor%C3%ADa%20de%20los%20otros%20colores.%20Son%20rojo%2C%20amarillo%20y%20azul.&f=false',
+    },
+    {
+      referencia: 'Nogueira, P. (2011). Motion Capture Fundamentals.',
+      link: 'https://paginas.fe.up.pt/~prodei/dsie12/papers/paper_7.pdf',
     },
     {
       referencia:
-        'McGraw-Hill Education. (Sin fecha). Elementos visuales de la imagen. Recuperado el 15 de julio de 2017.',
-      link: 'https://www.mheducation.es/bcv/guide/capitulo/844817724X.pdf',
+        'Personaje textura. Freepik.es (2024). Una figura caprichosa se levanta sin esfuerzo rodeada de luz etérea y sombras tranquilas. | Imagen Premium generada con IA (freepik.es).',
+      link: '',
+    },
+    {
+      referencia: 'Real Academia Española. (s. f.). Anatomía.',
+      link: 'https://dle.rae.es/anatom%C3%ADa',
     },
     {
       referencia:
-        'Rhinoceros. (Sin fecha). Rhinoceros. Recuperado el 15 de julio de 2017.',
-      link: 'https://www.rhino3d.com/es',
+        'Reina Flores, M. del C. (s. f.). Series animadas y población infantil.',
+      link:
+        'https://www.revistacomunicar.com/verpdf.php?numero=25&articulo=25-2005-194',
+    },
+    {
+      referencia:
+        'Sotelino Couñago, A. (2015). Psicoviñetas: la psicología a través del cómic. GuiandenaprendizajenRAP2 385f12aca35d269 PDF | PDF | Diseño | Caso de estudio (scribd.com).',
+      link:
+        'https://es.scribd.com/document/471148693/GuiandenaprendizajenRAP2-385f12aca35d269-pdf',
+    },
+    {
+      referencia:
+        'Técnicas artísticas (s.f.). Estudio descriptivo. Recuperado el 8 de octubre de 2024.',
+      link:
+        'https://artistica.mineduc.cl/wp-content/uploads/sites/58/2016/04/TECNICAS-ARTISTICAS.pdf',
+    },
+    {
+      referencia:
+        'Trazos de lápiz de un personaje. (2024). Freepik.es. Fotografías renderizadas en 3D de dibujos de personajes de caricaturas y animales | Imagen Premium generada con IA (freepik.es).',
+      link: '',
+    },
+    {
+      referencia:
+        'Vecellio Reane, F.L. (s.f.). ¿Qué es un brief y cómo realizarlo?',
+      link:
+        'https://rossami.com/kafka-y-praga-praga-y-kafka/lengua-mortal-no-dice-lo-que-dentro-sentia-leopardi/para-que-lean-y-con-gusto/que-es-el-brief-y-como-realizarlo/',
     },
   ],
   creditos: [
